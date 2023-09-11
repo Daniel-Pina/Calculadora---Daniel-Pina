@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
+    <!-- Alterado de net5.0 para net7.0 de acordo com orientações na página da Microsoft:
+    https://dotnet.microsoft.com/pt-br/download/dotnet/5.0/runtime?cid=getdotnetcore&os=windows&arch=x64 -->
   </PropertyGroup>
 
 </Project>
